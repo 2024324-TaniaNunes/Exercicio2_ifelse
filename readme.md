@@ -1,4 +1,5 @@
 # Reflexão: Ex02 if/else
+
 A IDEIA
 O enunciado pedia uma composição interativa que usasse condicionais (if/else) para mudar o comportamento visual com base no rato, nas teclas ou noutros inputs. Comecei por dividir o ecrã em quatro quadrantes invisíveis e acrescentar várias estrelas que cintilam lentamente. A cor das estrelas muda consoante o quadrante onde o rato se encontra. A ideia central foi inspirada no jogo do Pac-Man: o rato funciona como “isco” e o Pac-Man persegue-o sem nunca o apanhar, num céu estrelado preto.
 
